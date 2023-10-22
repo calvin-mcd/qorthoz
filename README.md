@@ -11,6 +11,10 @@ qorthoz is an ortholinear 10.25u qaz compatible pcb with usb c and jst ports for
 ![](https://github.com/calvin-mcd/qorthoz/blob/main/Images/top.jpg)
 ![](https://github.com/calvin-mcd/qorthoz/blob/main/Images/bottom.jpg)
 
+## Firmware
+
+Firmware is written for vial and the source code is provided for edits.
+
 ## RGB Strip
 
 Please note that the PCB is using a STM32 MCU and thus runs on 3v3 logic. No additional logic shifter has been added to the board. If you use a 5V rgb strip solder Data IN and GND to the beginning of the strip but *DO NOT* solder power to the beginning but anywhere else on the strip. This should be enough to run a 5v strip on the 3v3 board. 
@@ -26,6 +30,8 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 ## Credits
 
 This pcb has been made on request krisenplan. Do check out their beautiful qaz and qez compatible cases! https://www.printables.com/@Krisenplan
+
+The silkscreen logo has been taken from the german 40s keyboard discord ClackTales!
 
 As always big thanks to the many people who helped me and inspired this board!
 
