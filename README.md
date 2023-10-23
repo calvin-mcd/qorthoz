@@ -17,7 +17,7 @@ Firmware is written for vial and the source code is provided for edits.
 
 ## RGB Strip
 
-Please note that the PCB is using a STM32 MCU and thus runs on 3v3 logic. No additional logic shifter has been added to the board. If you use a 5V rgb strip solder Data IN and GND to the beginning of the strip but *DO NOT* solder power to the beginning but anywhere else on the strip. This should be enough to run a 5v strip on the 3v3 board and avoid 5V Power interference with the 3v3 Data IN.
+Please note that the PCB is using a STM32 MCU which runs on 3v3 logic. Using a 5V rgb strip can sometimes interfere with the 3v3 Data Signal from the MCU. If you use a 5V rgb strip solder Data IN and GND to the beginning of the strip but *DO NOT* solder power to the beginning but anywhere else on the strip. This should be enough to avoid 5V Power interference with the 3v3 Data IN.
 
 ## Disclaimer
 
