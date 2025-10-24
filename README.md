@@ -29,7 +29,7 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 ## Credits
 
-This pcb has been made on request krisenplan. Do check out their beautiful qaz and qez compatible cases! https://www.printables.com/@Krisenplan
+This pcb has been made on request kriscovery. Do check out their beautiful qaz and qez compatible cases! https://www.printables.com/@kriscovery
 
 The silkscreen logo has been taken from the german 40s keyboard discord ClackTales!
 
